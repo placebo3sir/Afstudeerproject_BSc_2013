@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{Amlacher:2008:GOR:1409240.1409291}
+{\sc Amlacher, K., and Paletta, L.}
+\newblock Geo-indexed object recognition for mobile vision tasks.
+\newblock In {\em Proceedings of the 10th international conference on Human
+  computer interaction with mobile devices and services\/} (New York, NY, USA,
+  2008), MobileHCI '08, ACM, pp.~371--374.
+
+\bibitem{Fockler:2005:PMG:1149488.1149490}
+{\sc F\"{o}ckler, P., Zeidler, T., Brombach, B., Bruns, E., and Bimber, O.}
+\newblock Phoneguide: museum guidance supported by on-device object recognition
+  on mobile phones.
+\newblock In {\em Proceedings of the 4th international conference on Mobile and
+  ubiquitous multimedia\/} (New York, NY, USA, 2005), MUM '05, ACM, pp.~3--10.
+
+\bibitem{eth_biwi_00782}
+{\sc Gammeter, S., Gassmann, A., Bossard, L., Quack, T., and Gool, L.~V.}
+\newblock Server-side object recognition and client-side object tracking for
+  mobile augmented reality.
+\newblock In {\em IEEE International Workshop on Mobile Vision (CVPR 2010)\/}
+  (June 2010).
+
+\bibitem{Lameira:2011:ROR:2037373.2037485}
+{\sc Lameira, A., Jesus, R., and Correia, N.}
+\newblock Real-time object recognition using mobile devices.
+\newblock In {\em Proceedings of the 13th International Conference on Human
+  Computer Interaction with Mobile Devices and Services\/} (New York, NY, USA,
+  2011), MobileHCI '11, ACM, pp.~687--690.
+
+\end{thebibliography}
